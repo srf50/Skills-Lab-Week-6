@@ -1,2 +1,5 @@
 # Skills-Lab-Week-6
-group project
+This is the repository for our group project. It currenty doesn't have much in it becuase we may have screwed something up while trying to get this to work.
+Emily's computer can't use the nano or vim commands and nobody's been able to figure out why so far, so we tried to work around it by having me be the repository owner, I create the notebook, then I push it back to git hub for Emily to clone. Emily cloned it, added a new message to the commit, and then pushed it back to git hub and it worked when we did that. Then when we tried to upload code, neither of us could upload because we both got errors related to not having updated data on our local copies. Since we forgot to fork, we uploaded directly onto the master and that's why neither of us could download. We each tried to reclone with the updated data to fix it and it gave us a different error of "permission denied." So then we tried to have Emily fork the current copy since she had done the most recent changes but it said she wasn't allowed to fork since it wasn't an empty repository. But since Emily can't add new files to a fork because she can't use vim or nano, we're back to square one.
+here's a picture of the code we wrote
+https://cdn.discordapp.com/attachments/393911988184416256/759958900870479912/image0.jpg
