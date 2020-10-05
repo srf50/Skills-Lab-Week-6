@@ -1,3 +1,6 @@
+# A note for our professor grading this
+At the time we submitted the URL for grading, we're still having trouble with getting code from Emily's computer. We're trying to work on it because the solution we got from the TA worked for me, but not for her so that was a lovely surprise. If this message isn't gone, here's proof that Emily wrote and added to the code: https://cdn.discordapp.com/attachments/393911988184416256/762524594744852480/image0.jpg
+
 # What does the code do?
 The file titled Untitled has the actual program. This program will ask the user for their name. If they put in something that isn't a name, like a number, the program will tell them that's not a name and refer to them as "user." It will then ask the user for the year they were born. By subtracting the year the user was born from 2020, it will calculate how old the user is. It gives two values: the upperlimit for if you've already had your birthday, and the lowerlimit if you haven't had your birthday yet. It will then print "Hello (name)! You are (upperlimit) years old or (lowerlimit) years old if you haven't had your birthday yet. Happy early birthday!"
 
